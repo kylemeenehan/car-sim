@@ -1,4 +1,4 @@
-(function (window, $) {
+(function (window) {
     function MatterCar(config) {
 
         var defaults = {
@@ -219,4 +219,4 @@
     }
 
     window.MatterCar = MatterCar;
-}(window, $));
+}(window));
